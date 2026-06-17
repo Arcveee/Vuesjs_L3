@@ -11,7 +11,7 @@ provide(boCommandeKey, boStore)
 <template>
   <div class="app">
     <header>
-      <h1>Restau— Gestion des commandes</h1>
+      <h1>Restaurant— Gestion des commandes</h1>
     </header>
     <main>
       <ListePlats />
